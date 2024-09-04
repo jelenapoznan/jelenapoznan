@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Jelena, I'm medical biochemist currently interested in all things Python and Data Science!
+
+- 🔭 I’m currently working on my Google Data Analyst certificate
+- 🌱 I’m currently learning data visualisation techniques
+- 📫 How to reach me: jelenapoznan24@gmail.com
 <!--
 **jelenapoznan/jelenapoznan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
