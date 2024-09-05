@@ -3,7 +3,7 @@
 My name is Jelena, I'm medical biochemist currently interested in all things Python and Data Science!
 
 - 🔭 I’m currently working on my Google Data Analyst certificate
-- 🌱 I’m currently learning data visualisation techniques
+- 🌱 I’m currently learning data visualisation techniques with [Tableau](https://public.tableau.com/app/profile/jelena.poznan/vizzes)
 - 📫 How to reach me: jelenapoznan24@gmail.com
 
 
